@@ -1,0 +1,81 @@
+*{
+  font-family: 'Dosis'
+}
+
+nav{
+  margin-top: 1%;
+}
+
+.logo{
+  margin-left: 5%;
+}
+
+ul{
+  margin-left: auto;
+  margin-right: 6%;
+}
+
+.nav-link{
+  font-weight: 400;
+  font-size: 150%;
+  margin-left: 30px;
+}
+
+.navbar-brand{
+  font-weight: 700;
+  font-size: 200%;
+}
+
+p{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.btn{
+  font-weight: 700;
+  font-size: large;
+  padding: 10px 30px;
+  margin-right: 30px;
+}
+
+.text-bold{
+  font-weight: 700;
+  font-size: 350%;
+}
+
+.text-normal{
+  font-weight: 400;
+  font-size: 150%;
+}
+
+.container{
+  margin-top: 2%;
+}
+
+.circle{
+  border-radius: 100%;
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+}
+
+.one{
+  background-color: rgba(255,0,0,0.3);
+  position: relative;
+  left: 15%;
+}
+
+.two{
+  background-color: rgba(0,255,255,0.3);
+}
+
+.three{
+  background-color: rgba(255,255,0,0.3);
+  position: relative;
+  right: 15%;
+}
+
+.logo{
+  width: 100px;
+  padding-top: 10px;
+}
